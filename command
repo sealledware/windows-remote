@@ -1,1 +1,1 @@
-notify:test
+notify:test2
