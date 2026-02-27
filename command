@@ -1,1 +1,1 @@
-notify:test
+msg:текст
