@@ -1,1 +1,1 @@
-close:Discord
+run:taskkill /f /im chrome.exe
